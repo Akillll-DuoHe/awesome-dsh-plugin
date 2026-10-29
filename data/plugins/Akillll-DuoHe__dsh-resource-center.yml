@@ -1,0 +1,6 @@
+url: https://github.com/Akillll-DuoHe/dsh-resource-center
+name: Akillll-DuoHe/dsh-resource-center
+category: ui
+description:
+  en: Adds one read-only sidebar page that inventories a profile's installed plugin bundles and running feature modules, grouped by kind and linked to the Plugins page.
+  zh: 在侧边栏加一个只读页面，把已安装的插件包和正在运行的功能模块按类别列清楚，点一下跳到插件管理页。
